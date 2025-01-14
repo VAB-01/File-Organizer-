@@ -1,7 +1,7 @@
 import os
 import shutil
 
-folder_to_organize = r"C:\Mobile" # the small R is representing a raw path string. This usually avoids errors
+folder_to_organize = r"C:\Mobile" # the small R is representing a raw path. This usually avoids errors
 
 categories = {
     "Camera Images": {
